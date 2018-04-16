@@ -1,0 +1,12 @@
+@media (max-width: 360px){
+    .sidebar{
+        display:none;
+    }  
+    col{
+        min-width:100%;
+    }
+}
+b{
+    color:greenyellow;
+    text-shadow:0 0 20px gray;
+}
